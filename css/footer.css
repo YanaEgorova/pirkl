@@ -1,0 +1,13 @@
+.footer__wrapper {
+    border-top: .1rem solid var(--main-text-color);
+}
+.footer {
+    padding: 3.5rem 2rem;
+}
+.footer__span {
+    font-size: 1.2rem;
+    color: var(--light-text-color);
+}
+.footer__span--mr {
+    margin-right: 5rem;
+}

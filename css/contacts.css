@@ -1,0 +1,30 @@
+.contacts .text {
+    color: var(--main-text-color);
+}
+.contacts__box {
+    margin-bottom: 2rem;
+}
+.contacts__text {
+    font-size: 1.8rem;
+}
+
+@media screen and (min-width: 1024px) {
+    .contacts .title {
+        margin-bottom: 12rem;
+    }
+    .contacts__block {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+    }
+    .contacts__box {
+        margin-bottom: 0;
+        width: 30%;
+    }
+    .contacts__img {
+        width: 60%;
+    }
+}

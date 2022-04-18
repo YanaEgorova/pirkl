@@ -1,0 +1,13 @@
+@import './libs/swiper-bundle.min.css';
+@import './normalize.css';
+@import './fonts.css';
+@import './vars.css';
+@import './utils.css';
+@import './header.css';
+@import './footer.css';
+@import './home.css';
+@import './about.css';
+@import './projects.css';
+@import './project.css';
+@import './press.css';
+@import './contacts.css';

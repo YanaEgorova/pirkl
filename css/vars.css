@@ -1,0 +1,21 @@
+:root {
+    --main-bg-color: #f2f2f2;
+    --main-text-color: #4f4f4f;
+    --light-text-color: #bdbdbd;
+    --semi-light-text-color: #8d8d8d;
+
+    --montserrat-black:  'Montserrat Black';
+    --montserrat-extra-bold:  'Montserrat ExtraBold';
+    --montserrat-bold:  'Montserrat Bold';
+    --montserrat-semi-bold:  'Montserrat SemiBold';
+    --montserrat-medium:  'Montserrat Medium';
+    --montserrat-regular:  'Montserrat Regular';
+    --montserrat-light:  'Montserrat Light';
+    --montserrat-extra-light:  'Montserrat ExtraLight';
+    --montserrat-thin:  'Montserrat Thin';
+    --cormorant-garamond-light: 'Cormorant Garamond Light';
+    --cormorant-garamond-semi-bold: 'Cormorant Garamond SemiBold';
+    --cormorant-garamond-bold: 'Cormorant Garamond Bold';
+  
+    font-size: 62.5%;
+  }
